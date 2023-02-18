@@ -1,0 +1,2 @@
+# Etriangulo
+Ejercicio en clase
